@@ -9,4 +9,4 @@
 7. Regresja liniowa -- [notatnik](notebooks/7_regresja.ipynb)
 8. Wizualizacja -- [notatnik](notebooks/8_wizualizacja.ipynb)
 9. Tabele przestawne -- [notatnik](notebooks/9_tabele_przestawne.ipynb)
-10. Analizy przestrzenne -- [notatnik](notebooks/10-analizy-przetrzenne.ipynb)
+10. Analizy przestrzenne -- [notatnik](notebooks/10_analizy_przetrzenne.ipynb)
